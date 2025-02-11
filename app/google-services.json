@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166276354551",
+    "project_id": "pigeon-call-lpu",
+    "storage_bucket": "pigeon-call-lpu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166276354551:android:805896bd1ea3edf0a29ef2",
+        "android_client_info": {
+          "package_name": "com.example.pigeon_call_lpu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZc7PZzcA5WCywMQzZK9vU84pxnAGI_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
